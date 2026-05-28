@@ -1,4 +1,3 @@
-````md
 # CS50P — Harvard's Introduction to Programming with Python 🐍
 
 My solutions, notes, and practice problems from [Harvard CS50P](https://cs50.harvard.edu/python/).
@@ -24,15 +23,17 @@ My solutions, notes, and practice problems from [Harvard CS50P](https://cs50.har
 
 ## 📁 Structure
 
-```text
+```
 CS50P/
-├── week0/   # Functions & Variables
-├── week1/   # Conditionals
-├── week2/   # Loops
-└── week3/   # Exceptions (in progress)
-````
+├── Week 0/   # Functions & Variables
+├── Week 1/   # Conditionals
+├── Week 2/   # Loops
+└── Week 3/   # Exceptions (in progress)
+```
 
 ---
+
+## 🎯 Goal
 
 Building strong Python fundamentals through consistent problem-solving and hands-on practice.
 
@@ -42,7 +43,4 @@ Building strong Python fundamentals through consistent problem-solving and hands
 
 ```bash
 python filename.py
-```
-
-```
 ```
